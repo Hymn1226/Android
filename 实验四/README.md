@@ -6,7 +6,7 @@
 
 #### 关键代码：
 
-- 设置浏览按钮监听事件：启动Intent
+- 设置浏览按钮监听事件：启动了Intent  
 
   ```java
      button.setOnClickListener(new View.OnClickListener() {
