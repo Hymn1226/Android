@@ -6,3 +6,4 @@
 
 ## [实验四：Intent](./实验四/README.md)
 
+## [期中实验：NotePad笔记本应用](./期中实验/README.md)
